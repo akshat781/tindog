@@ -1,0 +1,98 @@
+#title{
+  background-color: #ec823a;
+}
+.container-fluid{
+  padding:3% 15%;
+}
+h1{
+  font-family: sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-bottom: 1.5rem;
+}
+h2{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 3rem;
+}
+h3{
+  font-family: serif;
+font-size: 50px;
+
+}
+.navbar{
+
+  padding-bottom: 4.5rem;
+
+}
+.nav-item{
+  padding-left: 1.5rem;
+  colour:white;
+
+}
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+
+}
+.download-button{
+  margin: 5% 3% 5% ;
+}
+.photo-img{
+  width: 60%;
+  transform: rotate(25deg);
+}
+.feature{
+  padding: 7% 3%;
+text-align: center;
+}
+p{
+  color: red;
+}
+#testimonials{
+
+  text-align: center;
+  background-color: darkorange;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: darkorange;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+
+}
+.icon:hover{
+  color:#ec823a;
+}
+.press-image{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+#cta{
+  background-color: darkorange;
+  padding: 7% 3%;
+  text-align:center;
+  line-height: 1.5rem;
+
+}
+#footer{
+  padding:7% 15%;
+  text-align: center;
+}
+.social-icon{
+  margin:3% 2% 3%;
+}
+
+.download-but{
+  margin: 5% 3% 5% ;
+}
